@@ -1,0 +1,7 @@
+# fly.toml app configuration file generated for quantomancaamontelagobot on 2023-08-09T00:17:02+02:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "quantomancaamontelagobot"
+primary_region = "ams"
