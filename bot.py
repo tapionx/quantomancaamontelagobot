@@ -12,7 +12,7 @@ logging.basicConfig(
 TOKEN = os.getenv("TOKEN")
 
 # 2025-07-29T16:00:00.000
-MONTELAGO = datetime.datetime(2025, 8, 6, 7, 0, 0)
+MONTELAGO = datetime.datetime(2025, 8, 5, 16, 0, 0)
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print(update)
